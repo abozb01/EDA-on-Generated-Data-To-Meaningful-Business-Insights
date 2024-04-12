@@ -16,6 +16,9 @@ This project generates three types of visualizations:
 
 4. **Weekly Profits (Heat Map):** A heat map illustrating the weekly profits over the entire year.
 
+**Stats**
+ ![Graph Snapshot](stit.png)
+
 ## How to Use
 
 1. Clone the repository to your local machine.
