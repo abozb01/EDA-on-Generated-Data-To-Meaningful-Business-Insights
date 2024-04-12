@@ -8,11 +8,13 @@ Welcome to the Business Insights Visualizations project! This repository contain
 
 This project generates three types of visualizations:
 
-1. **Predicted Profits (Box Plot):** A box plot displaying the predicted profits for the next 52 weeks using a linear regression model.
+1. **Predicted Profits :** A box plot displaying the predicted profits for the next 52 weeks using a linear regression model.
 
-2. **Actual Profits (Scatter Plot):** A scatter plot showing the actual profits recorded for each week.
+ ![Graph Snapshot](box.png)
 
-3. **Weekly Profits (Heat Map):** A heat map illustrating the weekly profits over the entire year.
+3. **Actual Profits (Scatter Plot):** A scatter plot showing the actual profits recorded for each week.
+
+4. **Weekly Profits (Heat Map):** A heat map illustrating the weekly profits over the entire year.
 
 ## How to Use
 
