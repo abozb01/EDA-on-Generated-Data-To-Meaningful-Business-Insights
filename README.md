@@ -76,10 +76,5 @@ pip install pandas numpy plotly matplotlib
 
 ## Graph Snapshot
 
-You can upload a photo of the generated graph here. Please make sure the image is of decent size but not too big.
-
 ![Graph Snapshot](plotData.png)
 
-## Acknowledgments
-
-This project was created using synthetic data for educational purposes.
